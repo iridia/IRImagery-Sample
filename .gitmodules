@@ -1,0 +1,3 @@
+[submodule "IRImagery"]
+	path = IRImagery
+	url = git://github.com/iridia/IRImagery.git
